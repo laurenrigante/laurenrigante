@@ -38,4 +38,24 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 
 
 ## 👀 Check out some of my work
+### [CondoConnect](https://github.com/leobrod44/Mini-Capstone)
+**Team lead (frontend)** - Concordia University, Montreal QC 
+- Directed a 10-person team to deliver a condo management system using React and Firebase
+- Managed task distribution and deadlines to ensure timely project completion 
+- Organized and led all team meetings, acting as liaison between the front-end and back-end teams
+- Boosted team efficiency through Agile practices, including weekly scrum, sprint planning, and sprint retrospective meetings which fostered consistent progress toward project milestones
 
+**Core Competencies:** React.js, Agile methodologies collaboration, time management, communication
+
+---
+
+### [TalentVault](https://github.com/F4KER-X/TalentVault)
+**Team lead** - Concordia University, Montreal QC 
+- Built a career services platform using the MERN stack, delivering features like the job listing page, search functionality, and the user login and sign-up pages which enhanced usability and scalability
+- Oversaw all documentation, task and deadline assignment, meeting management 
+- Actively supported team members in overcoming obstacles and completing their tasks, fostering a collaborative environment
+
+   
+**Core Competencies:** MERN, leadership, organization, adaptability
+
+---
