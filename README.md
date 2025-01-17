@@ -20,7 +20,6 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurenrigante&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
-<br><br>
 
 ## 📊 My Stats
 <div align="center">
@@ -28,7 +27,6 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 </div>
 
 
-<br><br>
 
 ## 📫 Find me on 
 <div display="flex">
@@ -37,7 +35,7 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
   </a>
 </div>
 
-<br><br>
+
 
 ## 👀 Check out some of my work
 
