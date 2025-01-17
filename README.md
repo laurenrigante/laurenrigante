@@ -2,7 +2,7 @@
 ![Banner](https://github.com/user-attachments/assets/ac9bebda-3686-4c6c-9f97-7789c40e2c61)
 
 ## 👋 Hi there! I'm Lauren 
-I’m a dedicated software engineering student graduating in April 2025 🎓! I passionate about tackling new challenges and continuously expanding my skill set 🧠.  
+I’m a dedicated software engineering student graduating in April 2025 🎓! I'm passionate about tackling new challenges and continuously expanding my skill set 🧠.  
 
 With hands-on experience in both Android mobile development 📱 and web development 💻, I enjoy building intuitive, efficient, and user friendly applications. I am passionate about user experience and design, and am always looking to transform ideas into impactful solutions.
 
