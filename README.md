@@ -59,3 +59,7 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 **Core Competencies:** MERN, leadership, organization, adaptability
 
 ---
+
+### [Facial Emotion Recognizer](https://github.com/mattflahertyy/Machine-Learning-Facial-Recognition)
+- This project processes and trains a convolutional neural network (CNN) to classify facial expressions into four categories: Happy, Angry, Neutral, and Focused. It involves data cleaning, preprocessing, visualization, model training, evaluation, and bias detection.
+  
