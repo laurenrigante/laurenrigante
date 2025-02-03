@@ -6,7 +6,7 @@ I’m a dedicated software engineering student graduating in April 2025 🎓! I'
 
 With hands-on experience in both Android mobile development 📱 and web development 💻, I enjoy building intuitive, efficient, and user friendly applications. I am passionate about user experience and design, and am always looking to transform ideas into impactful solutions.
 
-Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded innovators 🚀
+Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded people 🚀
 
 Im currently working on my Capstone project and taking a Big Data class, where im strengthening my knowledge of Python and its libraries such as Pandas, Numpy and Matplotlib.
 
