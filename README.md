@@ -8,8 +8,10 @@ With hands-on experience in both Android mobile development 📱 and web develop
 
 Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded innovators 🚀
 
+Im currently working on my Capstone project and taking a Big Data class, where im strengthening my knowledge of Python and its libraries such as Pandas, Numpy and Matplotlib.
+
 ## ❤ I love working with
-<div display="flex", align="center", padding-bottom="50px">
+<div displaanay="flex", align="center", padding-bottom="50px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
