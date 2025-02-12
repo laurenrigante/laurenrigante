@@ -8,7 +8,8 @@ With hands-on experience in both Android mobile development 📱 and web develop
 
 Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded people 🚀
 
-Im currently working on my Capstone project and taking a Big Data class, where im strengthening my knowledge of Python and its libraries such as Pandas, Numpy and Matplotlib.
+### My current endeavors
+Im currently working on my Capstone project (Smartess- a smart home management system) and taking a Big Data class, where im strengthening my knowledge of Python and its libraries such as Pandas, Numpy and Matplotlib. I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my frontend engineering skills, and I am starting my first freelance website project for a client's business!
 
 ## ❤ I love working with
 <div displaanay="flex", align="center", padding-bottom="50px">
