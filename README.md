@@ -41,6 +41,17 @@ Im currently working on my Capstone project (Smartess- a smart home management s
 
 
 ## 👀 Check out some of my work
+### [MDV: Commercial landscaping and snow removal services](https://mdv-five.vercel.app/en)
+- My first freelance project, where I designed, developed, and deployed a website for **MDV**, a commercial landscaping and snow removal company. The website provides information about their services, showcases their work, and allows potential customers to get in touch.
+- Google Maps API – Location pin on the map
+- Resend – Form submission to company email (for questions/ quotes and job applications)
+- i18n – Website supports both **French** and **English**
+
+  
+**Tech Stack** : React, TypeScript, Tailwind CSS, Next.Js, Vercel deployment,
+
+  
+  
 ### [CondoConnect](https://github.com/leobrod44/Mini-Capstone)
 **Team lead (frontend)** - Concordia University, Montreal QC 
 - Directed a 10-person team to deliver a condo management system using React and Firebase
@@ -49,17 +60,6 @@ Im currently working on my Capstone project (Smartess- a smart home management s
 - Boosted team efficiency through Agile practices, including weekly scrum, sprint planning, and sprint retrospective meetings which fostered consistent progress toward project milestones
 
 **Core Competencies:** React.js, Agile methodologies collaboration, time management, communication
-
----
-
-### [TalentVault](https://github.com/F4KER-X/TalentVault)
-**Team lead** - Concordia University, Montreal QC 
-- Built a career services platform using the MERN stack, delivering features like the job listing page, search functionality, and the user login and sign-up pages which enhanced usability and scalability
-- Oversaw all documentation, task and deadline assignment, meeting management 
-- Actively supported team members in overcoming obstacles and completing their tasks, fostering a collaborative environment
-
-   
-**Core Competencies:** MERN, leadership, organization, adaptability
 
 ---
 
