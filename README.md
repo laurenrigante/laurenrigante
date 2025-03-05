@@ -2,14 +2,14 @@
 ![Banner](https://github.com/user-attachments/assets/ac9bebda-3686-4c6c-9f97-7789c40e2c61)
 
 ## 👋 Hi there! I'm Lauren 
-I’m a dedicated software engineering student graduating in April 2025 🎓! I'm passionate about tackling new challenges and continuously expanding my skill set 🧠.  
+I’m a dedicated software engineering student graduating in June 2025 🎓! I'm passionate about tackling new challenges and continuously expanding my skill set 🧠.  
 
 With hands-on experience in both Android mobile development 📱 and web development 💻, I enjoy building intuitive, efficient, and user friendly applications. I am passionate about user experience and design, and am always looking to transform ideas into impactful solutions.
 
 Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded people 🚀
 
 ### My current endeavors
-Im currently working on my Capstone project (Smartess- a smart home management system) and taking a Big Data class, where im strengthening my knowledge of Python and its libraries such as Pandas, Numpy and Matplotlib. I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my frontend engineering skills, and I am starting my first freelance website project for a client's business!
+Im currently working on my Capstone project (Smartess- a smart home management system) and taking a Big Data class, where im strengthening my knowledge of Python and its libraries, as well as Data analytics and ML. I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my JS skills, and I am working on my first freelance website project for a client's business!
 
 ## ❤ I love working with
 <div displaanay="flex", align="center", padding-bottom="50px">
@@ -41,7 +41,7 @@ Im currently working on my Capstone project (Smartess- a smart home management s
 
 
 ## 👀 Check out some of my work
-### [MDV: Commercial landscaping and snow removal services](https://mdv-five.vercel.app/en)
+### [MDV: Commercial landscaping and snow removal services](https://mdv-five.vercel.app/en)  (in progress)
 - My first freelance project, where I designed, developed, and deployed a website for **MDV**, a commercial landscaping and snow removal company. The website provides information about their services, showcases their work, and allows potential customers to get in touch.
 - Google Maps API – Location pin on the map
 - Resend – Form submission to company email (for questions/ quotes and job applications)
