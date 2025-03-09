@@ -41,7 +41,7 @@ Im currently working on my Capstone project (Smartess- a smart home management s
 
 
 ## 👀 Check out some of my work
-### [MDV: Commercial landscaping and snow removal services](https://mdv-five.vercel.app/en)  (in progress)
+### [MDV: Commercial landscaping and snow removal services](https://www.paysagistemdv.ca/en)  (in progress)
 - My first freelance project, where I designed, developed, and deployed a website for **MDV**, a commercial landscaping and snow removal company. The website provides information about their services, showcases their work, and allows potential customers to get in touch.
 - Google Maps API – Location pin on the map
 - Resend – Form submission to company email (for questions/ quotes and job applications)
