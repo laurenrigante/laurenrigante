@@ -46,6 +46,7 @@ Im currently working on my Capstone project (Smartess- a smart home management s
 - Google Maps API – Location pin on the map
 - Resend – Form submission to company email (for questions/ quotes and job applications)
 - i18n – Website supports both **French** and **English**
+- Set up Google Ads
 
   
 **Tech Stack** : React, TypeScript, Tailwind CSS, Next.Js, Vercel deployment,
