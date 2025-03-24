@@ -9,7 +9,10 @@ With hands-on experience in both Android mobile development 📱 and web develop
 Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded people 🚀
 
 ### My current endeavors
-Im currently working on my Capstone project (Smartess- a smart home management system) and taking a Big Data class, where im strengthening my knowledge of Python and its libraries, as well as Data analytics and ML. I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my JS skills, and I am working on my first freelance website project for a client's business!
+- Im currently working on my Capstone project (Smartess- a smart home management system built for condominiums)
+- I am self-learning React Native!
+- I am taking a Big Data class, where im strengthening my knowledge of Python and its libraries, as well as Data analytics and ML.
+- I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my JS skills
 
 ## ❤ I love working with
 <div displaanay="flex", align="center", padding-bottom="50px">
