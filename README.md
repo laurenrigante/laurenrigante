@@ -44,7 +44,7 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 
 
 ## 👀 Check out some of my work
-### [MDV: Commercial landscaping and snow removal services](https://www.paysagistemdv.ca/en)  (in progress)
+### [MDV: Commercial landscaping and snow removal services](https://www.paysagistemdv.ca/en) 
 - My first freelance project, where I designed, developed, and deployed a website for **MDV**, a commercial landscaping and snow removal company. The website provides information about their services, showcases their work, and allows potential customers to get in touch.
 - Google Maps API – Location pin on the map
 - Resend – Form submission to company email (for questions/ quotes and job applications)
