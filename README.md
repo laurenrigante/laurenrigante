@@ -10,8 +10,8 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 
 ### My current endeavors
 - Im currently working on my Capstone project (Smartess- a smart home management system built for condominiums)
-- I am self-learning React Native!
-- I am taking a Big Data class, where im strengthening my knowledge of Python and its libraries, as well as Data analytics and ML.
+- I am currently following a Node Js course to further improve my backend skills!
+- I have just completed a Big Data class, where i strengthened my knowledge of Python and its libraries, as well as its place in Data analytics and Machine learning.
 - I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my JS skills
 
 ## ❤ I love working with
