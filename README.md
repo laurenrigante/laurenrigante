@@ -9,7 +9,6 @@ With hands-on experience in both Android mobile development 📱 and web develop
 Curiosity drives me to explore, learn, and grow. I’m always on the lookout for opportunities to challenge myself, contribute to exciting projects, and collaborate with like-minded people 🚀
 
 ### My current endeavors
-- Im currently working on my Capstone project (Smartess- a smart home management system built for condominiums)
 - I am currently following a Node Js course to further improve my backend skills!
 - I have just completed a Big Data class, where i strengthened my knowledge of Python and its libraries, as well as its place in Data analytics and Machine learning.
 - I am in the process of completing TheGreatFrontend's 3 month study guide to strengthen my JS skills
@@ -44,6 +43,17 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 
 
 ## 👀 Check out some of my work
+
+### [Smartess: Smart Home Management System for Condos](https://smartess.vercel.app/)
+- **Academic Capstone Project** -- Team Lead
+- Directed a 10-person team in developing “Smartess”, a smart home management platform tailored for condominiums and large residential communities, using Next.js.
+- Oversaw the design and implementation of a web application enabling property owners to monitor data from smart home “hubs” across multiple units and buildings, streamlining property management and communication.
+- Coordinated collaboration between website developers and smart-home hub developers, ensuring integration of real-time monitoring, maintenance requests, and announcements.
+
+
+**Tech Stack**: Next.js, Tailwind CSS, TypeScript
+
+
 ### [MDV: Commercial landscaping and snow removal services](https://www.paysagistemdv.ca/en) 
 - My first freelance project, where I designed, developed, and deployed a website for **MDV**, a commercial landscaping and snow removal company. The website provides information about their services, showcases their work, and allows potential customers to get in touch.
 - Google Maps API – Location pin on the map
@@ -52,7 +62,7 @@ Curiosity drives me to explore, learn, and grow. I’m always on the lookout for
 - Set up Google Ads
 
   
-**Tech Stack** : React, TypeScript, Tailwind CSS, Next.Js, Vercel deployment,
+**Tech Stack** : TypeScript, Tailwind CSS, Next.Js, Vercel deployment,
 
   
   
